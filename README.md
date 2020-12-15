@@ -9,7 +9,7 @@ I've worked as a full-stack developer for almost 3 years, until I started to wor
 #### About me...
 
 * I'm a former musician, playing guitar at brazilian heavy metal band <b> [Codmorse](https://www.youtube.com/watch?v=YWRXsgpfGCE) </b> between late 2012 to mid-2017.
-* I started my interest in development back in 2013 with Unity engine, but with 3D Modeling instead of programing.
+* I started my interest in development back in 2013 with Unity engine, but with 3D Modeling instead of programming.
 * Graduated in Computer Technician at [IFSP - Campus Salto](https://slt.ifsp.edu.br/) back in 2017.
 * Worked as full-stack developer at [Advanced Tecnologia](https://en.shapethebusiness.app/) between late 2017 to mid-november 2020.
 * Released two games under the title [`Retrogemn`](https://gamejolt.com/@retrogemn).
