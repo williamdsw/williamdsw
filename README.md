@@ -16,13 +16,6 @@ I've worked as a full-stack developer for almost 3 years, until I started to wor
 * Currently learning Vue.js and NodeJS.
 * I love to play video games and game development, feel free to add me on steam or talk about development ;)
 
-#### Stack
-
-[<img align="left" alt="VS Code" width="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/visualstudiocode.svg">]()
-[<img align="left" alt="Unity" width="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/unity.svg">]()
-[<img align="left" alt="Windows 10" width="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/windows.svg">]()
-[<img align="left" alt="Ubuntu 20.04.1 LTS" width="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/ubuntu.svg">]()
-
 <br/><br/><br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
