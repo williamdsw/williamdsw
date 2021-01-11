@@ -16,8 +16,6 @@ I've worked as a full-stack developer for almost 3 years, until I started to wor
 * Currently learning Vue.js and NodeJS.
 * I love to play video games and game development, feel free to add me on steam or talk about development ;)
 
-<br/><br/><br/>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=williamdsw&count_private=true&show_icons=true&theme=tokyonight&layout=compact">
 </a>
