@@ -3,7 +3,7 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=williamdsw.williamdsw)
 ![GitHub followers](https://img.shields.io/github/followers/williamdsw?label=Followers&style=social)
 
-I'm William, freelancer developer based in Itu, São Paulo, Brazil.
+I'm William, Unity developer based in Itu, São Paulo, Brazil.
 I've worked as a full-stack developer for almost 3 years, until I started to work with Unity.
 
 #### About me...
@@ -12,6 +12,7 @@ I've worked as a full-stack developer for almost 3 years, until I started to wor
 * I started my interest in development back in 2013 with Unity engine, but with 3D Modeling instead of programming.
 * Graduated in Computer Technician at [IFSP - Campus Salto](https://slt.ifsp.edu.br/) back in 2017.
 * Worked as full-stack developer at [Advanced Tecnologia](https://en.shapethebusiness.app/) between late 2017 to mid-november 2020.
+* Currently working at [VIAMAKER® Education](https://www.viamaker.com/) since january 2021.
 * Released two games under the title [`Retrogemn`](https://gamejolt.com/@retrogemn).
 * Currently learning Vue.js and NodeJS.
 * I love to play video games and game development, feel free to add me on steam or talk about development ;)
