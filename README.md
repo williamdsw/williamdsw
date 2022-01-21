@@ -14,7 +14,7 @@ I've worked as a full-stack developer for almost 3 years, until I started to wor
 * Worked as full-stack developer at [Advanced Tecnologia](https://en.shapethebusiness.app/) between late 2017 to mid-november 2020.
 * Currently working at [VIAMAKER® Education](https://www.viamaker.com/) since january 2021.
 * Released two games under the title [`Retrogemn`](https://gamejolt.com/@retrogemn).
-* Currently learning Vue.js and NodeJS.
+* Currently learning NodeJS.
 * I love to play video games and game development, feel free to add me on steam or talk about development ;)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
